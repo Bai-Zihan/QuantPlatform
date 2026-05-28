@@ -1,0 +1,5 @@
+XSym
+0034
+6b3c03dc1034206915d84e384449ab72
+../../Resources/pyarrow/compat.pxi
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

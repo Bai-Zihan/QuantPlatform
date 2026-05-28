@@ -1,0 +1,5 @@
+XSym
+0039
+f5a571dfd0cb16dc4d020d24a7c1a6b5
+../../Resources/pyarrow/pandas-shim.pxi
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

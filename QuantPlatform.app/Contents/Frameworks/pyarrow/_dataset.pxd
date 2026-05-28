@@ -1,0 +1,5 @@
+XSym
+0036
+f227b87ba2399921d0e2470f12fd531a
+../../Resources/pyarrow/_dataset.pxd
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

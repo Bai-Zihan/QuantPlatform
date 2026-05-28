@@ -1,0 +1,5 @@
+XSym
+0036
+65afb21625a37ebff9bfeb09b504cb45
+../../Resources/pyarrow/_azurefs.pyx
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

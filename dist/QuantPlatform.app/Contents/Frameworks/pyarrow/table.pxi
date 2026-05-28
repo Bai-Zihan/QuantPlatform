@@ -1,0 +1,5 @@
+XSym
+0033
+79e7af3b2cfbf8c69b7b2d9a0b625309
+../../Resources/pyarrow/table.pxi
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

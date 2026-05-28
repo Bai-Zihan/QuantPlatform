@@ -1,0 +1,5 @@
+XSym
+0044
+aba0e67e72cf5653d49c6ee37a0811e5
+../../Resources/pyarrow/_dataset_parquet.pxd
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

@@ -1,0 +1,5 @@
+XSym
+0032
+1dbf24bfb4c0ffb5c0acac3bac0dce0e
+../../Resources/pyarrow/_csv.pxd
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

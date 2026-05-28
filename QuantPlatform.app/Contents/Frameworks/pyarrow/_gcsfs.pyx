@@ -1,0 +1,5 @@
+XSym
+0034
+764c59ad3632d5093a43d14a490be897
+../../Resources/pyarrow/_gcsfs.pyx
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

@@ -1,0 +1,5 @@
+XSym
+0032
+bd820af42dba4891aa2402024204551f
+../../Resources/pyarrow/_orc.pxd
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

@@ -1,0 +1,5 @@
+XSym
+0033
+31ea6b61610c0bc4cff52d1d0099c369
+../../Resources/pyarrow/_s3fs.pyx
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

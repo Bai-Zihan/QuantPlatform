@@ -1,0 +1,5 @@
+XSym
+0031
+6d42c4b46f440f7cdd81ffc90cf5eea0
+../../Resources/pyarrow/_fs.pyx
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

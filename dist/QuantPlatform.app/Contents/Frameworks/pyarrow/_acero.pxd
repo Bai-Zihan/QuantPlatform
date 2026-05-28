@@ -1,0 +1,5 @@
+XSym
+0034
+3ca364016343319603be1aac17fa04ad
+../../Resources/pyarrow/_acero.pxd
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

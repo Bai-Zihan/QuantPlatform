@@ -1,0 +1,5 @@
+XSym
+0031
+49ec4f6c0971d760c73c284bb1886f8e
+../../Resources/pyarrow/lib.pxd
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

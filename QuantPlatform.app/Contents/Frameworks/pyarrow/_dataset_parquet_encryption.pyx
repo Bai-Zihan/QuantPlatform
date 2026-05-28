@@ -1,0 +1,5 @@
+XSym
+0055
+aaccb2caf05491bbbfd20e85857dbc64
+../../Resources/pyarrow/_dataset_parquet_encryption.pyx
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

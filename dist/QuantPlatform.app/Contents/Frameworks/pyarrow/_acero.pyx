@@ -1,0 +1,5 @@
+XSym
+0034
+29ba02ad07137196bb827b1689c8f61d
+../../Resources/pyarrow/_acero.pyx
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

@@ -1,0 +1,5 @@
+XSym
+0030
+5698b1b062436c7423059d882a551333
+../../Resources/pyarrow/io.pxi
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

@@ -1,0 +1,5 @@
+XSym
+0036
+098260ed3942937bd37b4ffae607d516
+../../Resources/pyarrow/_feather.pyx
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

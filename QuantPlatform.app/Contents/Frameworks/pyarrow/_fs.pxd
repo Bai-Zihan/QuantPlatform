@@ -1,0 +1,5 @@
+XSym
+0031
+c32db9d202556132cf0c3bb51c204d2c
+../../Resources/pyarrow/_fs.pxd
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

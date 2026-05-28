@@ -1,0 +1,5 @@
+XSym
+0033
+9d989ffd5b577552fda6179ab015e2f4
+../../Resources/pyarrow/lib_api.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

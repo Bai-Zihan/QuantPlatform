@@ -1,0 +1,5 @@
+XSym
+0046
+1aac970f85122f972a40053de51f5f94
+../../Resources/pyarrow/_pyarrow_cpp_tests.pxd
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

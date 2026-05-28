@@ -1,0 +1,5 @@
+XSym
+0038
+b75b0d3e9ec908d6de78567763bdf9d4
+../../Resources/pyarrow/_substrait.pyx
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

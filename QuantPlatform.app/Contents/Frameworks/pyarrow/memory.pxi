@@ -1,0 +1,5 @@
+XSym
+0034
+1662e16bf6e6885acb304da5d04ced81
+../../Resources/pyarrow/memory.pxi
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

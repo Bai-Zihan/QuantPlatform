@@ -1,0 +1,5 @@
+XSym
+0035
+74d8b0d6b53b4b8a98e02b7fc565aa10
+../../Resources/pyarrow/_flight.pyx
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

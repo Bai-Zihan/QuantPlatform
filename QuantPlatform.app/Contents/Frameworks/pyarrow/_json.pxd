@@ -1,0 +1,5 @@
+XSym
+0033
+4c2876861ac2bc15faaf25c9b91a5f3d
+../../Resources/pyarrow/_json.pxd
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

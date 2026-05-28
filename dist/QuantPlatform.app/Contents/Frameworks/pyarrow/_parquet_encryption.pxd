@@ -1,0 +1,5 @@
+XSym
+0047
+bf7fcd6b3b625cf590c9052a03385a68
+../../Resources/pyarrow/_parquet_encryption.pxd
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

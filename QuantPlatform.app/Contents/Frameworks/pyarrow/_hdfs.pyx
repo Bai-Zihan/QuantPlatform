@@ -1,0 +1,5 @@
+XSym
+0033
+b1f8310be6c477edf763c737f721d21f
+../../Resources/pyarrow/_hdfs.pyx
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
